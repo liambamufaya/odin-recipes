@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+
+#heading{
+    background-color: rgb(168, 28, 58);
+    text-align: center;
+    margin: 0%;
+    border: 7px dotted yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+
+}
+    
